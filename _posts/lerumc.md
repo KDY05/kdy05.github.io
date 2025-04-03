@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "이루마크(롱폼) 플러그인/모드/맵 정리"
-description: "이루마크(롱폼) 플러그인/모드/맵 정리2"
-author: Ararab
 tags: [이루의_마인크래프트, 플러그인, 모드, 맵]
-toc: true
 ---
 
 # 이루마크(롱폼) 플러그인/모드/맵 정리
