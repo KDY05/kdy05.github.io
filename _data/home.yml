@@ -60,8 +60,8 @@ footer_entries:
   # - title: twitter
   #   url: https://twitter.com/abhinav
 
-  - title: github
-    url: https://github.com/KDY05
+  - title: source
+    url: https://github.com/KDY05/kdy05.github.io
 
   - title: feed
     url: feed.xml
