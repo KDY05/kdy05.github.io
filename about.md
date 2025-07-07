@@ -3,4 +3,4 @@ layout: post
 title: About
 ---
 
-Any Contact: kwondy0500@naver.com
+Contact on Discord: @kdy05_
