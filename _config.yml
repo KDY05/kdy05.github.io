@@ -1,8 +1,8 @@
-title: "어라랍의 블로그"
+title: "어라랍의 페이지"
 author: Ararab
 url: https://kdy05.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  간단한 포스팅 용도로 만든 저장소입니다.
+  간단한 포스팅 용도입니다.
 
 permalink: /:slug
 
